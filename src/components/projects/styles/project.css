@@ -45,7 +45,8 @@
 }
 
 .project-description {
-	color: black
+	color: black;
+	height: auto;
 }
 
 .project-link {
@@ -68,6 +69,6 @@
 
 @media (max-width: 600px) {
 	.project {
-		height: 300px;
+		height: auto;
 	}
 }
