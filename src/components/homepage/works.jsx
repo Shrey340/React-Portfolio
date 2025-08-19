@@ -15,28 +15,26 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNV2eA91PK7-oiHC78VXUaXLs6rhJElyJmRQ&s"
+								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCT60R5YVuz_qypA0MLTgmho5ThwG1HV5Pkg&s"
 								alt="facebook"
 								className="work-image"
 							/>
 							<div className="work-title">
-								WEBBRAINS TECHNOLOGY
+								Drs. Kiran & Pallavi Patel Global University
 							</div>
-							<div className="work-subtitle">
-								MERN STACK DEVELOPER INTERN
-							</div>
+							<div className="work-subtitle">Lecturer</div>
 							<div className="work-duration"></div>
 						</div>
 
 						<div className="work">
 							<img
-								src="https://media.glassdoor.com/sqll/6655690/mewurk-technologies-squarelogo-1653382697010.png"
+								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTYwXAOAVVliQC5sPNR2OAA7mAJmiqgxAuQ&s"
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">MEWURK TECHNOLOGY</div>
+							<div className="work-title">Arth Technology</div>
 							<div className="work-subtitle">
-								FRONTEND DEVELOPER INTERN
+								Web Development Intern
 							</div>
 						</div>
 					</div>
