@@ -1,18 +1,18 @@
 function article_1() {
 	return {
-		date: "1 JUL 2023 - 1 DEC 2023",
-		title: "Lecturer",
+		date: "1 JULY 2024 - 1 OCT 2024",
+		title: "FRONTEND DEVELOPER INTERN",
 		description:
-			"I designed and delivered an updated, industry-aligned curriculum that improved job placement outcomes by 30% and achieved a 95% student satisfaction rate. I led courses in software engineering, system design, and cloud technologies while mentoring 100+ students through hands-on labs and real-world examples. Additionally, I organized coding workshops, tech talks, and peer-learning seminars to promote collaboration and established a security reference architecture to help developers build secure-by-default systems for clients.",
+			"During my internship, I worked on an HRMS portal, focusing specifically on the Action module. The application was built primarily using React.js for the front-end and Redux for state management. My role involved developing and optimizing components within the Action module, ensuring smooth functionality and seamless integration with the overall system. By leveraging Redux, I effectively managed the application's state, enabling efficient data flow and improving performance across the portal.",
 	};
 }
 
 function article_2() {
 	return {
-		date: "8 JAN 2024 - 8 MAY 2024",
-		title: "Web Development Intern",
+		date: "13 FEB 2023 - 1 AUG 2023",
+		title: "MERN STACK DEVELOPER INTERN",
 		description:
-			"I contributed to full-stack development by building responsive front-end interfaces with HTML, CSS, and JavaScript, and implementing Python-based back-end logic for dynamic content and data processing. Working in an agile team, I supported sprint planning, testing, and code reviews while helping optimize website performance and strengthen security practices.",
+			"During my internship, I underwent intensive training in JavaScript, React.js, and Node.js, gaining a solid understanding of front-end and back-end development. After the training phase, I focused on front-end development, where I developed and refined an admin panel by designing components and integrating them with the back-end using Node.js and Express.js. This ensured seamless communication between client-side and server-side components for smooth data exchange and functionality.",
 	};
 }
 

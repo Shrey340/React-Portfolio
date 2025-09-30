@@ -1,15 +1,15 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by Devansh Patel",
-		name: "Devansh Patel",
-		email: "devanshpatel2910@icloud.com",
+		title: "Reactfolio by Shrey Parmar",
+		name: "Shrey Parmar",
+		email: "shreyparmar422@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
 		github: "https://github.com/",
-		linkedin: "http://linkedin.com/in/devansh-patel-807181212/",
+		linkedin: "https://www.linkedin.com/in/parmar-shrey-4864331b8/",
 		instagram: "https://instagram.com/",
 		facebook: "https://facebook.com/",
 	},
@@ -21,7 +21,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I'm Devansh , Crafting Web Experiences with MERN",
+		title: "I'm Shrey , Crafting Web Experiences with MERN",
 		description:
 			"Full-Stack Developer based in India, passionate about building modern, user-friendly web applications using the MERN stack. Over the past few years, I’ve worked on various projects ranging from admin panels to fully functional web modules. Each project has been a step forward in my journey, helping me grow as a developer.I always welcome feedback, suggestions, or collaborations—because I believe sharing knowledge and learning from others is key to continuous improvement.",
 	},

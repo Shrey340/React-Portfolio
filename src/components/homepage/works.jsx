@@ -15,7 +15,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://cdn-ilanecp.nitrocdn.com/SYytQhchfhrPOLMXmCxzpooleDMkGgpw/assets/images/optimized/rev-33e7f68/www.webbrainstechnologies.com/wp-content/uploads/2022/03/weblogo-e1629894882198.png"
+								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Molzy8lHaPBd7fx5TsnImPywnvZFd1bdSg&s"
 								alt="facebook"
 								className="work-image"
 							/>
