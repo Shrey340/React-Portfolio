@@ -15,26 +15,30 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCT60R5YVuz_qypA0MLTgmho5ThwG1HV5Pkg&s"
+								src="https://cdn-ilanecp.nitrocdn.com/SYytQhchfhrPOLMXmCxzpooleDMkGgpw/assets/images/optimized/rev-33e7f68/www.webbrainstechnologies.com/wp-content/uploads/2022/03/weblogo-e1629894882198.png"
 								alt="facebook"
 								className="work-image"
 							/>
 							<div className="work-title">
-								Drs. Kiran & Pallavi Patel Global University
+								Mewurk Technology Pvt Ltd
 							</div>
-							<div className="work-subtitle">Lecturer</div>
+							<div className="work-subtitle">
+								FrontEnd Developer Intern
+							</div>
 							<div className="work-duration"></div>
 						</div>
 
 						<div className="work">
 							<img
-								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTYwXAOAVVliQC5sPNR2OAA7mAJmiqgxAuQ&s"
+								src="https://cdn-ilanecp.nitrocdn.com/SYytQhchfhrPOLMXmCxzpooleDMkGgpw/assets/images/optimized/rev-33e7f68/www.webbrainstechnologies.com/wp-content/uploads/2022/03/weblogo-e1629894882198.png"
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Arth Technology</div>
+							<div className="work-title">
+								Webbrains Technology Pvt Ltd
+							</div>
 							<div className="work-subtitle">
-								Web Development Intern
+								MERN Stack Developer Intern
 							</div>
 						</div>
 					</div>
